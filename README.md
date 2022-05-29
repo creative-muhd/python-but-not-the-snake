@@ -3,7 +3,7 @@ This is a dummy tutorial about the key concepts of Python programming language, 
 I hope this helps you get a little idea about how Python works and programming in general. THANK YOU!!!
 ----------
 
-## Open for changes:
+### Open for changes:
 We are all learning, no one is perfect.
 ----------
 
